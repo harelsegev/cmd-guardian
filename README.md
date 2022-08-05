@@ -2,7 +2,7 @@
 
 ![guardian](https://user-images.githubusercontent.com/84273110/183107893-45e2d5d6-ef47-4304-b9f3-72b1dced6276.png)
 
-CMD Guardian was initially written to prank my co-workers, but it can also be used for educational purposes. It demonstrates some living-off-the-land techniques that are often used by read-world attackers:
+CMD Guardian was initially written to prank my co-workers, but it can also be used for educational purposes. It demonstrates some living-off-the-land techniques that are often used by real-world attackers:
 
 * Persistence via Image File Execution Options
 * Fileless VBScript execution using rundll32 and mshtml.dll
